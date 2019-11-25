@@ -1,0 +1,2 @@
+# sri
+regarding django files
